@@ -45,5 +45,3 @@ System oparty jest na najlepszych praktykach inżynierii danych:
 │   ├── 01_ingestion_to_bronze.py
 │   └── 02_processing_to_silver.py
 └── README.md
-
-<img width="959" height="553" alt="image" src="https://github.com/user-attachments/assets/b7cd17a5-0863-46c6-83b2-713ac9b05b27" />
