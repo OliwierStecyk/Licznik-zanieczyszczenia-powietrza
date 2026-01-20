@@ -47,5 +47,7 @@ System oparty jest na najlepszych praktykach inżynierii danych:
 │   └── 02_processing_to_silver.py
 └── README.md
 
-<img width="959" height="553" alt="image_chmury" src="https://github.com/user-attachments/assets/eab273fa-08eb-4a6e-9ef3-b6f65c55867e" />
+![image_chmury](https://github.com/user-attachments/assets/eab273fa-08eb-4a6e-9ef3-b6f65c55867e)
+
+
 
