@@ -41,7 +41,11 @@ System oparty jest na najlepszych praktykach inżynierii danych:
 │   └── outputs.tf
 ├── simulator/               # Symulator czujników IoT w Pythonie
 │   └── sensor_emulator.py
-├── notebooks/               # Notebooki Databricks (Spark Streaming)
+├── notebooks/               # Notebooki Databricks (Spark Streaming)<img width="959" height="553" alt="image_chmury" src="https://github.com/user-attachments/assets/58227dac-784b-4a5e-8e0c-1b80f5e8cec0" />
+
 │   ├── 01_ingestion_to_bronze.py
 │   └── 02_processing_to_silver.py
 └── README.md
+
+<img width="959" height="553" alt="image_chmury" src="https://github.com/user-attachments/assets/eab273fa-08eb-4a6e-9ef3-b6f65c55867e" />
+
